@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent * \n chgrp staff *
+echo `chown vincent *` "`chgrp school *`"
