@@ -1,2 +1,2 @@
 #!/bin/bash
-cat wha
+cat /etc/passwd /etc/hosts
