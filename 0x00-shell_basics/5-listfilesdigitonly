@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lai\n
+ls -lni
