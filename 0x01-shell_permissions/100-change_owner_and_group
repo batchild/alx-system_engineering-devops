@@ -1,2 +1,2 @@
 #!/bin/bash
-echo `chown vincent *` "`chgrp school *`"
+chown betty:school *
